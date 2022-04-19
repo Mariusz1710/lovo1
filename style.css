@@ -1,0 +1,18 @@
+body,html
+{
+	background-color: blue;
+	width: 100%;
+}
+
+div
+{
+	margin-top: 15px;
+
+}
+
+#weekday
+{
+	color: yellow;
+
+}
+
